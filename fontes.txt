@@ -1,0 +1,11 @@
+
+## Download elasticsearch
+http://www.mediawiki.org/xml/export-0.10/
+
+## Partial xml event reader
+http://www.mrico.eu/entry/parsing_chunks_of_xml_documents
+
+## Elastic monitoramento
+https://www.elastic.co/downloads/x-pack
+
+

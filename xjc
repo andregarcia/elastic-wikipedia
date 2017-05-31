@@ -1,0 +1,1 @@
+xjc https://www.mediawiki.org/xml/export-0.10.xsd -p br.curso.elastic.model

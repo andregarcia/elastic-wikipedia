@@ -1,0 +1,14 @@
+br/curso/elastic/configuration/ElasticsearchConfig.class
+br/curso/elastic/controller/response/MultiItemResponse.class
+br/curso/elastic/configuration/IndexConstants.class
+br/curso/elastic/parser/ParsedElementProcessor.class
+br/curso/elastic/controller/response/IndexResponse.class
+br/curso/elastic/configuration/SearchConstants.class
+br/curso/elastic/service/PageSearchService$PageableResult.class
+br/curso/elastic/parser/PageElementProcessor.class
+br/curso/elastic/Application.class
+br/curso/elastic/service/PagingService.class
+br/curso/elastic/controller/response/SingleItemResponse.class
+br/curso/elastic/service/PageSearchService.class
+br/curso/elastic/service/PageIndexingService.class
+br/curso/elastic/controller/PageController.class

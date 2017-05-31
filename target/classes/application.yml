@@ -1,0 +1,18 @@
+
+
+elasticsearch:
+    clusterName: curso-elastic
+    host: 127.0.0.1
+    port: 9300
+
+appender:
+    console:
+        type: Console
+        name: console
+        layout:
+            type: PatternLayout
+rootLogger:
+    level: info
+    appenderRef:
+        console:
+            ref: console
