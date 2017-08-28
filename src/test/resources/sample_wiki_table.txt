@@ -1,0 +1,73 @@
+{{Ver desambig}}
+{{Info/Estado do Brasil
+ |nome                = Sergipe
+ |preposição          = de
+ |descrição_bandeira  = Bandeira do Sergipe
+ |descrição_brasão    = Brasão de Armas do Sergipe
+ |leg_brasão          = Brasão de Sergipe
+ |leg_bandeira        = Bandeira de Sergipe
+ |lema                = ''SUB LEGE LIBERTAS'' &lt;br /&gt;{{small|(traduzido do [[latim]], significa: &quot;Sob a Lei a Liberdade&quot;)}}
+ |hino                = [[Hino de Sergipe|Hino do estado de Sergipe]]
+ |localização         = Sergipe in Brazil.svg
+ |mapa                = Sergipe MesoMicroMunicip.svg
+ |região              = Nordeste
+ |capital             = [[Ficheiro:Brasao aracaju.svg|18px]]&amp;nbsp;[[Aracaju]]
+ |vizinhos            = [[Bahia]] e [[Alagoas]]
+ |mesorregiões        = 3
+ |microrregiões       = 13
+ |municípios          = 75
+ |gentílico           = [[wikt:sergipano|sergipano]] ou [[wikt: sergipense|sergipense]]
+ |governador          = [[Jackson Barreto]]
+ |partido_gov         = [[Partido do Movimento Democrático Brasileiro|PMDB]]
+ |partido_vice        = [[Partido do Movimento Democrático Brasileiro|PMDB]]
+ |dep_federais        = 8
+ |dep_estaduais       = 24
+ |senador1            = [[Antônio Carlos Valadares]] ([[Partido Socialista Brasileiro|PSB]])
+ |senador2            = [[Eduardo Amorim]] ([[PSDB]])
+ |senador3            = [[Maria do Carmo Alves|Maria do Carmo]] ([[Democratas (Brasil)|DEM]])
+ |área_total          = 21915.116
+ |área_pos            = 26
+ |população_estimada  = 2265779
+ |população_estimada_ano = 2016
+ |população_estimada_pos = 22
+ |população_estimada_ref= &lt;ref key=&quot;IBGE_Pop_2015&quot;&gt;{{citar web|url=ftp://ftp.ibge.gov.br/Estimativas_de_Populacao/Estimativas_2015/estimativa_dou_2015.pdf | titulo = Estimativas  da população residente no Brasil e Unidades da federação com data de referência em 1º de julho de 2015 |data = 28 de agosto de 2015 |publicado = Instituto Brasileiro de Geografia e Estatística |acessodata = 28 de agosto de 2015 | formato = PDF }}&lt;/ref&gt;
+ |densidade_pos       = 5
+ |clima               = [[Clima tropical|Tropical]]
+ |classificação_clima = As
+ |indicador_ref       = &lt;ref key=&quot;EVN_TMI&quot;&gt;{{citar web|url=ftp://ftp.ibge.gov.br/Tabuas_Completas_de_Mortalidade/Tabuas_Completas_de_Mortalidade_2015/tabua_de_mortalidade_analise.pdf|título=Tábua completa de mortalidade para o Brasil – 2015|publicado=IBGE|acessodata=2 de dezembro de 2016}}&lt;/ref&gt;&lt;ref&gt;{{citar web|url=http://www.censo2010.ibge.gov.br/sinopse/index.php?dados=P6&amp;uf=00|título=Sinopse do Censo Demográfico 2010|publicado=IBGE|acessodata=2 de dezembro de 2016}}&lt;/ref&gt;
+|indicador_ano       = 2010/2015}}
+
+'''Sergipe''' é uma das 27 [[Unidades federativas do Brasil|unidades federativas]] do [[Brasil]]. Está situado na [[Região Nordeste do Brasil|Região Nordeste]] e
+tem por limites o [[oceano Atlântico]] a [[leste]] e os estados da [[Bahia]], a [[oeste]] e a [[sul]], e de [[Alagoas]], a [[norte]], do qual está separado pelo
+[[Rio São Francisco]]. É o [[Lista de unidades federativas do Brasil por área|menor dos estados brasileiros]], ocupando uma área total de {{fmtn|21915.116}}
+[[Quilômetro quadrado|km²]], tornando-o pouco maior que [[El Salvador]]. Em [[2010]], sua população foi recenseada em 2.068.017 habitantes.&lt;ref&gt;{{Citar
+periódico|titulo=Conheça Sergipe - Saiba mais sobre a cultura e encantos desse estado.|jornal=Sergipe
+Turismo|url=http://www.sergipeturismo.com/conheca-sergipe/|idioma=pt-BR}}&lt;/ref&gt;
+
+{{Info2/Sergipe
+ |esp_vida_ano        = 2015
+ |esp_vida            = 72,4
+ |esp_vida_pos        = 20
+ |mort_infantil_ano   = 2015
+ |mort_infantil       = 17,0
+ |mort_infantil_pos   = 12
+ |alfabetização_ano   = 2010
+ |alfabetização       = 83,0
+ |alfabetização_pos   = 21
+ |fuso_horário        = [[UTC−3]]
+ |IDH                 = 0.665
+ |IDH_ref             = &lt;ref&gt;{{Citar web |url=http://www.pnud.org.br/arquivos/ranking-idhm-2010-uf.pdf|titulo=Índice de Desenvolvimento Humano Municipal, 2010 - Todos os Estados do Brasil|autor=PNUD Brasil |acessodata=29 de julho de 2013}}&lt;/ref&gt;
+ |IDH_ano             = 2010
+ |IDH_pos             = 20
+ |PIB_total           = R$ 37,472 bilhões
+ |PIB_ref             =&lt;ref&gt;{{citar web
+ |url = http://www.ibge.gov.br/home/estatistica/economia/pibmunicipios/2005_2009/tabelas_pdf/tab01.pdf
+ |título = Tabela 1 - Produto Interno Bruto a preços correntes e Produto Interno Bruto per capita segundo as Grandes Regiões, as Unidades da Federação e os municípios - 2005-2009
+ |publicado = Instituto Brasileiro de Geografia e Estatística
+ |acessodata = 20 de janeiro de 2012}}&lt;/ref&gt;
+ |PIB_ano             = 2010
+ |PIB_pos             = 22
+ |PIB_per_capita      = 12 536
+ |PIB_per_capita_ano  = 2011
+ |PIB_per_capita_pos  = 17
+|Maior altitude=742m}}

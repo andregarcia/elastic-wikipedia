@@ -1,0 +1,212 @@
+[[Imagem:Starsinthesky.jpg|thumb|[[Estrela|Formação estrelar]] na [[Grande Nuvem de Magalhães]], uma [[galáxia irregular]].]]
+[[Imagem:Crab Nebula.jpg|thumb|Mosaico da [[Nebulosa do Caranguejo]], remanescente de uma [[supernova]].]]
+'''Astronomia''' é uma [[Ciências naturais|ciência natural]] que estuda [[Corpo celeste|corpos celestes]] (como [[estrela]]s, [[planeta]]s, [[cometa]]s, [[nebulosa]]s, [[Aglomerado estelar|aglomerados de estrelas]], [[galáxia]]s) e [[Fenómeno|fenômenos]] que se originam fora da [[Atmosfera terrestre|atmosfera da Terra]] (como a [[radiação cósmica de fundo em micro-ondas]]). Preocupada com a evolução, a [[física]], a [[química]] e o [[movimento]] de objetos celestes, bem como a [[Cosmologia física|formação e o desenvolvimento do universo]].
+
+A astronomia é uma das mais antigas ciências. Culturas pré-históricas deixaram registrados vários artefatos astronômicos, como [[Stonehenge]], os montes de [[Newgrange]] e os [[menir]]es. As primeiras civilizações, como os [[Babilônia (cidade)|babilônios]], [[gregos]], [[República Popular da China|chineses]], [[Índia|indianos]], [[Irão|iranianos]] e [[maias]] realizaram observações metódicas do [[céu noturno]]. No entanto, a invenção do [[telescópio]] permitiu o desenvolvimento da astronomia moderna. Historicamente, a astronomia incluiu disciplinas tão diversas como [[astrometria]], [[navegação astronômica]], [[Astronomia#Astronomia observacional|astronomia observacional]] e a elaboração de [[calendário]]s. Durante o [[idade média|período medieval]], seu estudo era obrigatório e estava incluído no ''[[Quadrivium]]'' que, junto com o ''[[Trívio|Trivium]]'', compunha a metodologia de ensino das sete [[Artes liberais]].&lt;ref&gt;Janotti, Aldo. ''Origens da universidade: a singularidade do caso português.'' EdUSP, 1992, página 199. ISBN 9788531400858 (04/02/2016).&lt;/ref&gt;
+
+Durante o século XX, o campo da astronomia profissional foi dividido em dois ramos: a astronomia observacional e a astronomia teórica.{{Carece de fontes|ciência=sim|data=março de 2012}} A primeira está focada na aquisição de dados a partir da observação de objetos celestes, que são então analisados utilizando os princípios básicos da física. Já a segunda é orientada para o desenvolvimento de modelos analíticos que descrevem objetos e fenômenos astronômicos. Os dois campos se complementam, com a astronomia teórica procurando explicar os resultados observacionais, bem com as observações sendo usadas para confirmar (ou não) os resultados teóricos.
+
+Os [[Astronomia amadora|astrônomos amadores]] têm contribuído para muitas e importantes descobertas astronômicas. A astronomia é uma das poucas ciências onde os amadores podem desempenhar um papel ativo, especialmente na descoberta e observação de fenômenos transitórios&lt;ref&gt;Denis Russo Burgierman e Thereza Venturoli. [http://super.abril.com.br/ciencia/astronomia-feita-casa-438101.shtml Astronomia feita em casa]. [[Superinteressante]]. Editora Abril: set 1999;&lt;/ref&gt;&lt;ref&gt;Carolina Cantarino. [http://www.comciencia.br/comciencia/?section=8&amp;edicao=27&amp;id=316 Profissionais e amadores no universo da astronomia]. ComCiência, 10/08/2007;&lt;/ref&gt;.
+
+A Astronomia não deve ser confundida com a [[astrologia]], sistema de crença que afirma que os assuntos humanos estão correlacionados com as posições dos objetos celestes. Embora os dois campos compartilhem uma origem comum, atualmente eles estão totalmente distintos&lt;ref&gt;Albrecht Unsöld, Bodo Baschek e WP Brewer. ''The New Cosmos: An Introduction to Astronomy and Astrophysics''. Berlin, Nova Iorque: Springer, 2001.&lt;/ref&gt;.
+
+== História ==
+{{Artigo principal|História da astronomia}}
+Inicialmente, a astronomia envolveu somente a observação e a previsão dos movimentos dos objetos no céu que podiam ser vistos a olho nu. O [[Rigveda]] refere-se aos 27 [[asterismo (astronomia)|asterismo]]s ou ''nakshatras'' associados aos movimentos do [[Sol]] e também às doze [[Zodíaco#O zodíaco da astrologia|divisões zodiacais]] do céu. Durante milhares de anos, as pessoas investigaram o espaço e a situação da Terra. No ano 4.000 a.C., os egípcios desenvolveram um calendário baseado no movimento dos objetos celestes. A observação dos céus levou à previsão de eventos como os eclipses.Os antigos gregos fizeram importantes contribuições para a astronomia, entre elas a definição de [[magnitude aparente]]. A [[Bíblia]] contém um número de afirmações sobre a posição da [[Terra]] no [[universo]] e sobre a natureza das estrelas e dos planetas, a maioria das quais são poéticas e não devem ser interpretadas literalmente; ver [[Cosmologia bíblica]]. Nos anos 500, [[Aryabhata]] apresentou um sistema matemático que considerava que a Terra rodava em torno do seu eixo e que os planetas se deslocavam em relação ao Sol.
+
+[[Imagem:Ant Nebula.jpg|250px|thumb|esquerda|Astronomia estelar, evolução estelar: A nebulosa planetária de Formiga. A ejecção de [[gás]] da estrela moribunda no centro tem padrões simétricos intrigantes diferentes dos padrões caóticos esperados de uma explosão ordinária. Cientistas usando o Hubble tentam entender como uma estrela esférica pode produzir tais simetrias proeminentes no gás que ejecta.]]
+
+O estudo da astronomia quase parou durante a [[Idade Média]], à exceção do trabalho dos astrónomos [[árabes]]. No  final do [[século IX]], o astrónomo árabe al-Farghani (Abu'l-Abbas Ahmad ibn Muhammad ibn Kathir al-Farghani) escreveu extensivamente sobre o movimento dos corpos celestes.  No [[século XII]], os seus trabalhos foram traduzidos para o [[latim]], e diz-se que [[Dante Alighieri|Dante]] aprendeu astronomia pelos livros de al-Farghani.
+
+No final do século X, um observatório enorme foi construído perto de [[Teerã]], [[Irã]], pelo astrônomo al-Khujandi, que observou uma série de trânsitos meridianos do Sol, que permitiu-lhe calcular a obliquidade da eclíptica, também conhecida como a inclinação do eixo da Terra relativamente ao Sol. Como sabe-se hoje, a inclinação da Terra é de aproximadamente 23°34', e al-Khujandi mediu-a como sendo 23°32'19&quot;.  Usando esta informação, compilou também uma lista das [[latitude]]s e das [[longitude]]s de cidades principais.
+
+[[Omar Khayyām|Omar Khayyam]] (Ghiyath al-Din Abu'l-Fath Umar ibn Ibrahim al-Nisaburi al-Khayyami) foi um grande cientista, filósofo e poeta [[Pérsia|persa]] que viveu de [[1048]] a [[1131]]. Compilou muitas tabelas astronômicas e executou uma reforma do calendário que era mais exato do que o [[Calendário juliano|Calendário Juliano]] e se aproximava do [[Calendário gregoriano|Calendário Gregoriano]]. Um feito surpreendente era seu cálculo do ano como tendo 365,24219858156 dias, valor esse considerando a exatidão até a sexta casa decimal se comparado com os números de hoje, indica que nesses 1000 anos pode ter havido algumas alterações na órbita terrestre.
+
+Durante o [[Renascimento]], [[Copérnico]] propôs um [[modelo heliocêntrico]] do [[Sistema Solar]]. No século XIII, o imperador Hulagu, neto de Gengis Khan e um protetor das ciências, havia concedido ao conselheiro Nasir El Din Tusi autorização para edificar um observatório considerado sem equivalentes na época. Entre os trabalhos desenvolvidos no observatório de Maragheg e a obra &quot;De Revolutionibus Orbium Caelestium&quot; de Copérnico, há algumas semelhanças que levam os historiadores a admitir que este teria tomado conhecimento dos estudos de Tusi, através de cópias de trabalhos deste existentes no Vaticano.
+
+O modelo heliocêntrico do Sistema Solar foi defendido, desenvolvido e corrigido por [[Galileu Galilei]] e [[Johannes Kepler]].  Kepler foi o primeiro a desenvolver um sistema que descrevesse corretamente os detalhes do movimento dos planetas com o [[Sol]] no centro.  No entanto, Kepler não compreendeu os princípios por detrás das leis que descobriu. Estes princípios foram descobertos mais tarde por [[Isaac Newton]], que mostrou que o movimento dos planetas se podia explicar pela [[Lei da gravitação universal]] e pelas leis da dinâmica.
+
+Constatou-se que as estrelas são objetos muito distantes. Com o advento da [[Espectroscopia]] provou-se que são similares ao nosso próprio Sol, mas com uma grande variedade de [[temperatura]]s, [[massa]]s e tamanhos. A existência de nossa [[galáxia]], a [[Via Láctea]], como um grupo separado das estrelas foi provada somente no [[século XX]], bem como a existência de galáxias &quot;externas&quot;, e logo depois, a expansão do [[universo]] dada a recessão da maioria das galáxias de nós. A [[Cosmologia]] fez avanços enormes durante o século XX, com o modelo do [[Big Bang]] fortemente apoiado pelas evidências fornecidas pela Astronomia e pela Física, tais como a radiação cósmica de micro-ondas de fundo, a [[Lei de Hubble]] e a abundância cosmológica dos elementos.
+
+== Campos ==
+Por ter um objeto de estudo tão vasto, a astronomia é dividida em muitas áreas. Uma distinção principal é entre a astronomia ''teórica'' e a ''observacional''. ''Observadores'' usam vários meios para obter dados sobre diversos fenômenos, que são usados pelos ''teóricos'' para criar e testar teorias e modelos, para explicar observações e para prever novos resultados. O observador e o teórico não são necessariamente pessoas diferentes e, em vez de dois campos perfeitamente delimitados, há um contínuo de cientistas que põem maior ou menor ênfase na observação ou na teoria.
+
+Os campos de estudo podem também ser categorizados quanto:
+* ao ''assunto'': em geral de acordo com a região do espaço (ex. [[Astronomia galáctica]]) ou aos ''problemas por resolver'' (tais como formação das estrelas ou [[cosmologia]]).
+* à forma como se obtém a informação (essencialmente, que faixa do [[espectro eletromagnético]] é usada).
+
+Enquanto a primeira divisão se aplica tanto a observadores como também a teóricos, a segunda se aplica a observadores, pois os teóricos tentam usar toda informação disponível, em todos os comprimentos de onda, e observadores frequentemente observam em mais de uma faixa do espectro.
+
+=== Astronomia observacional ===
+[[Imagem:Grav.lens1.arp.750pix.jpg|250px|thumb|Astronomia extragaláctica: exemplo de lente gravitacional. Esta imagem, captada pelo telescópio espacial Hubble, mostra vários objetos azuis em forma de espiral que, na verdade, são imagens múltiplas de uma mesma galáxia. A imagem original da galáxia é multiplicada pelo efeito de lente gravitacional causado pelo aglomerado de galáxias elípticas e espirais de cor amarela que aparecem no centro da fotografia. A lente gravitacional deve-se ao campo gravitacional gerado pelo aglomerado, que curva e distorce a luz de objetos mais distantes.]]
+
+Na astronomia, a principal forma de obter [[informação]] é através da detecção e análise da [[luz]] visível ou outras regiões da [[radiação eletromagnética]]. Mas a informação é adquirida também por [[raio cósmico|raios cósmicos]], [[neutrino]]s, e, no futuro próximo, [[onda gravitacional|ondas gravitacionais]] (veja [[LIGO]] e [[Laser Interferometer Space Antenna|LISA]]).
+
+Uma divisão tradicional da astronomia é dada pela faixa do espectro eletromagnético observado. Algumas partes do espectro podem ser observadas da superfície da [[Terra]], enquanto outras partes só são observáveis de grandes altitudes ou no espaço.
+
+==== Radioastronomia ====
+{{Artigo principal|Radioastronomia}}
+
+A radioastronomia estuda a radiação com [[comprimento de onda]] maior que aproximadamente 1 milímetro.&lt;ref name=&quot;cox2000&quot;&gt;{{cite book | author=A. N. Cox, editor | title=Allen's Astrophysical Quantities | year=2000 | publisher=Springer-Verlag | location=New York | isbn=0-387-98746-0}}&lt;/ref&gt; A radioastronomia é diferente da maioria das outras formas de astronomia observacional pelo fato de as [[ondas de rádio]] observáveis poderem ser tratadas como [[onda]]s ao invés de [[fótons]] discretos. Com isso, é relativamente mais fácil de medir a [[amplitude]] e a [[fase (física)|fase]] das ondas de rádio.&lt;ref name=&quot;cox2000&quot;/&gt;
+
+Apesar de algumas ondas de rádio serem produzidas por objetos astronômicos na forma de [[radiação térmica]], a maior parte das emissões de rádio que são observadas da Terra são vistas na forma de [[radiação síncrotron]], que é produzida quando [[elétron]]s ou outras partículas eletricamente carregadas descrevem uma trajetória curva em um [[campo magnético]].&lt;ref name=&quot;cox2000&quot;/&gt; Adicionalmente, diversas [[linha espectral|linhas espectrais]] produzidas por [[gás interestelar]], notadamente a linha espectral do [[hidrogênio]] de 21&amp;nbsp;cm, são observáveis no comprimento de onda de rádio.&lt;ref name=&quot;cox2000&quot;/&gt;&lt;ref name=&quot;shu1982&quot;&gt;{{cite book | author = F. H. Shu | title = The Physical Universe | publisher = University Science Books | date = 1982 | location = Mill Valley, California | isbn = 0-935702-05-9}}&lt;/ref&gt;
+
+Uma grande variedade de objetos são observáveis no comprimento de onda de rádio, incluindo [[supernova]]s, [[gás interestelar]], [[pulsar]]es e [[galáxia ativa|núcleos de galáxias ativas]].&lt;ref name=&quot;cox2000&quot;/&gt;&lt;ref name=&quot;shu1982&quot;/&gt;
+
+==== Astronomia infravermelha ====
+{{Artigo principal|Astronomia infravermelha}}
+
+A astronomia infravermelha lida com a detecção e análise da [[infravermelho|radiação infravermelha]] (comprimentos de onda maiores que a luz vermelha). Exceto por comprimentos de onda mais próximas à luz visível, a radiação infravermelha é na maior parte absorvida pela atmosfera, e a atmosfera produz emissão infravermelha numa quantidade significante. Consequentemente, observatórios de infravermelho precisam estar localizados em lugares altos e secos, ou no espaço.
+
+O espectro infravermelho é útil para estudar objetos que são muito frios para emitir luz visível, como os [[planeta]]s e [[discos circunstrelar]]es. Comprimentos de onda infravermelha maior podem também penetrar nuvens de poeira que bloqueiam a luz visível, permitindo a observação de estrelas jovens em [[nuvem molecular|nuvens moleculares]] e o centro de galáxias.&lt;ref&gt;{{citar notícia | author=Staff | date=11 de setembro de 2013 | title=Why infrared astronomy is a hot topic | publisher=ESA | url=http://www.esa.int/esaCP/SEMX9PZO4HD_FeatureWeek_0.html | accessdate=11 de agosto de 2008 }}&lt;/ref&gt; Algumas moléculas radiam fortemente no infravermelho, e isso pode ser usado para estudar a química no espaço, assim como detectar água em cometas.&lt;ref&gt;{{citar notícia | title=Infrared Spectroscopy - An Overview | publisher=NASA/IPAC | url=http://www.ipac.caltech.edu/Outreach/Edu/Spectra/irspec.html | accessdate=11 de agosto de 2008 }}&lt;/ref&gt;
+
+==== Astronomia óptica ====
+{{Artigo principal|Astronomia óptica}}
+
+Historicamente, a astronomia óptica (também chamada de astronomia da luz visível) é a forma mais antiga da astronomia.&lt;ref name=&quot;moore1997&quot;&gt;{{cite book | author=P. Moore | title=Philip's Atlas of the Universe | year=1997 | publisher=George Philis Limited | location=Great Britain | isbn=0-540-07465-9}}&lt;/ref&gt; Imagens ópticas eram originalmente desenhadas à mão. No final do [[século XIX]] e na maior parte do [[século XX]] as imagens eram criadas usando equipamentos fotográficos. Imagens modernas são criadas usando detectores digitais, principalmente detectores usando [[Dispositivo de Carga Acoplado|dispositivos de cargas acoplados]] (CCDs). Apesar da luz visível estender de aproximadamente 4000 [[Angstrom|Å]] até 7000 Å (400 [[nanometro|nm]] até 700&amp;nbsp;nm),&lt;ref name=&quot;moore1997&quot;/&gt; o mesmo equipamento usado nesse comprimento de onda é também usado para observar radição de luz visível próxima a [[ultravioleta]] e [[infravermelho]].
+
+==== Astronomia ultravioleta ====
+{{Artigo principal|Astronomia ultravioleta}}
+
+A astronomia ultravioleta é normalmente usada para se referir a observações no comprimento de onda ultravioleta, aproximadamente entre 100 e 3200 [[Angstrom|Å]] (10 e 320 [[nanometro|nm]]).&lt;ref name=&quot;cox2000&quot;/&gt; A luz nesse comprimento de onda é absorvida pela atmosfera da Terra, então as observações devem ser feitas na atmosfera superior ou no espaço.
+
+A astronomia ultravioleta é mais utilizada para o estudo da radiação térmica e linhas de emissão espectral de [[estrela]]s azul quente ([[Estrela OB]]) que são muito brilhantes nessa banda de onda. Isso inclui estrelas azuis em outras galáxias, que têm sido alvos de várias pesquisas nesta área. Outros objetos normalmente observados incluem a [[nebulosa planetária]], [[remanescente de supernova]], e núcleos de galáxias ativas.&lt;ref name=&quot;cox2000&quot;/&gt; Entretanto, a luz ultravioleta é facilmente absorvida pela [[poeira interestelar]], e as medições da luz ultravioleta desses objetos precisam ser corrigidas.&lt;ref name=&quot;cox2000&quot;/&gt;
+
+==== Astronomia de raios-X ====
+{{Artigo principal|Astronomia de raios-X}}
+
+A astronomia de raio-X é o estudo de objetos astronômicos no comprimento de onda de raio-X. Normalmente os objetos emitem radiação de raio-X como [[radiação síncrotron]] (produzida pela oscilação de elétrons em volta de campos magnéticos), emissão termal de gases finos (chamada de [[Bremsstrahlung|radiação Bremsstrahlung]]) maiores que 10&lt;sup&gt;7&lt;/sup&gt; [[kelvin]], e emissão termal de gases grossos (chamada [[radiação de corpo negro]]) maiores que 10&lt;sup&gt;7&lt;/sup&gt; kelvin.&lt;ref name=&quot;cox2000&quot;/&gt; Como os raio-X são absorvidos pela atmosfera terrestre todas as observações devem ser feitas de balões de grande altitude, [[Foguete espacial|foguete]]s, ou naves espaciais.
+
+Fontes de raio-X notáveis incluem [[binário de raio X]], [[pulsar]]es, remanescentes de supernovas, [[galáxia elíptica|galáxias elípticas]], [[Aglomerado de galáxias|aglomerados de galáxias]] e núcleos galácticos ativos.&lt;ref name=&quot;cox2000&quot;/&gt;
+
+==== Astronomia de raios gama ====
+{{Artigo principal|Astronomia de raios gama}}
+
+A astronomia de raios gama é o estudo de objetos astronômicos que usam os menores comprimentos de onda do espectro eletromagnético. Os raios gama podem ser observados diretamente por satélites como o [[observatório de raios Gama Compton]] ou por telescópios especializados chamados [[Cherenkov (telescópio)|Cherenkov]].&lt;ref name=&quot;cox2000&quot;/&gt; Os telescópios Cherenkov não detectam os raios gama diretamente mas detectam flasses de luz visível produzidos quando os raios gama são absorvidos pela atmosfera da Terra.&lt;ref name=&quot;spectrum&quot;&gt;{{Citar web| último = Penston | primeiro = Margaret J. | data = 14 de agosto de 2002 | url=http://www.pparc.ac.uk/frontiers/latest/feature.asp?article=14F1&amp;style=feature | título = The electromagnetic spectrum | publicado = Particle Physics and Astronomy Research Council | acessodata = 17 de agosto de 2006 }}&lt;/ref&gt;
+
+A maioria das fontes emissoras de raio gama são na verdade [[erupção de raios gama|Erupções de raios gama]], objetos que produzem radiação gama apenas por poucos milisegundos a até milhares de segundos antes de desaparecerem. Apenas 10% das fontes de raio gama são fontes não-transendentes, incluindo [[pulsar]]es, [[estrela de nêutron|estrelas de nêutrons]], e candidatos a [[buraco negro|buracos negros]] como núcleos galácticos ativos.&lt;ref name=&quot;cox2000&quot;/&gt;
+
+==== Campos não baseados no espectro eletromagnético ====
+Além da radiação eletromagnética outras coisas podem ser observadas da Terra que se originam de grandes distâncias.
+
+Na [[Astronomia de neutrino]]s, astrônomos usam laboratórios especiais subterrâneos como o [[SAGE]], [[GALLEX]] e [[Kamioka Observatory|Kamioka II/III]] para detectar [[neutrino]]s. Esses neutrinos se originam principalmente do [[Sol]], mas também de [[supernova]]s.&lt;ref name=&quot;cox2000&quot;/&gt;
+
+[[Raio cósmico|Raios cósmicos]] consistindo de partículas de energia muito elevada podem ser observadas chocando-se com a atmosfera da terra.&lt;ref&gt;{{citar web | url=http://hyperphysics.phy-astr.gsu.edu/hbase/astro/cosmic.html | título=Cosmic Rays }} publicado em &quot;HyperPhysics&quot; (2013)&lt;/ref&gt; No futuro, detectores de neutrino poderão ser sensíveis aos neutrinos produzidos quando raios cósmicos atingem a atmosfera da Terra.&lt;ref name=&quot;cox2000&quot;/&gt;
+
+Foram construídos alguns observatórios de [[onda gravitacional|ondas gravitacionais]] como o Laser Interferometer Gravitational Observatory (LIGO) mas as ondas gravitacionais são extremamente difíceis de detectar.&lt;ref&gt;{{Citar web| autor = G. A. Tammann, F. K. Thielemann, D. Trautmann | data = 2003 | url=http://www.europhysicsnews.com/full/20/article8/article8.html | título = Opening new windows in observing the Universe | publicado = Europhysics News | acessodata = 22 de agosto de 2006 }}&lt;/ref&gt; No final de 2015, pesquisadores do projeto [[LIGO]] (''Laser Interferometer Gravitational-Wave Observatory'') observaram &quot;distorções no espaço e no tempo&quot; causadas por um par de [[buracos negros]] com trinta [[Massa solar|massas solares]] em processo de fusão.&lt;ref name=&quot;Discovery 2016&quot;&gt;{{cite journal |title=Einstein's gravitational waves found at last |journal=Nature News| url=http://www.nature.com/news/einstein-s-gravitational-waves-found-at-last-1.19361 |date=11 de fevereiro de 2016 |last=Castelvecchi |first=Davide |last2=Witze |first2=Witze |doi=10.1038/nature.2016.19361 |accessdate=21 de fevereiro de 2016-02-1 }}&lt;/ref&gt;&lt;ref name='Abbot'&gt;{{cite journal |title=Observation of Gravitational Waves from a Binary Black Hole Merger| authors=B. P. Abbott et al. (LIGO Scientific Collaboration and Virgo Collaboration)| journal=Physical Review Letters| year=2016| volume=116|issue=6| url=https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.061102 | doi=10.1103/PhysRevLett.116.061102}}&lt;/ref&gt;&lt;ref name='NSF'&gt;{{Citar web|title = Gravitational waves detected 100 years after Einstein's prediction &amp;#124; NSF - National Science Foundation|url = http://www.nsf.gov/news/news_summ.jsp?cntn_id=137628|website = www.nsf.gov|acessodata = 2016-02-11}}&lt;/ref&gt;&lt;ref&gt;{{citar notícia |last=Overbye |first=Dennis |authorlink=Dennis Overbye |title=Physicists Detect Gravitational Waves, Proving Einstein Right |url=http://www.nytimes.com/2016/02/12/science/ligo-gravitational-waves-black-holes-einstein.html?_r=0 |date=11 de fevereiro de 2016 |work=[[New York Times]] |accessdate=11 de fevereiro de 2016 }}&lt;/ref&gt;
+
+A astronomia planetária tem se beneficiado da observação direta pelos foguetes espaciais e amostras no retorno das missões. Essas missões incluem ''fly-by missions'' com sensores remotos; veículos de aterrissagem que podem realizar experimentos no material da superfície; missões que permitem ver remotamente material enterrado; e missões de amostra que permitem um exame laboratorial direto.
+
+==== Astrometria e mecânica celestial ====
+Um dos campos mais antigos da astronomia e de todas as ciências, é a medição da posição dos objetos celestiais. Historicamente, o conhecimento preciso da posição do Sol, Lua, planetas e estrelas era essencial para a [[navegação celestial]].
+
+A cuidadosa medição da posição dos planetas levou a um sólido entendimento das [[teoria da perturbação|perturbações]] gravitacionais, e a capacidade de determinar as posições passadas e futuras dos planetas com uma grande precisão, um campo conhecido como [[mecânica celestial]]. Mais recentemente, o monitoramento de [[NEO|Objectos Próximos da Terra]] vai permitir a predição de encontros próximos, e possivelmente colisões, com a Terra.&lt;ref&gt;{{Citar web| último = Calvert | primeiro = James B. | data = 28 de março de 2003 | url=http://www.du.edu/~jcalvert/phys/orbits.htm | título = Celestial Mechanics | publicado = University of Denver | acessodata = 21 de agosto de 2006 }}&lt;/ref&gt;
+
+A medição do [[paralaxe|paralaxe estelar]] de estrelas próximas provêm uma linha de base fundamental para a [[medição de distâncias na astronomia]] que é usada para medir a escala do universo. Medições paralaxe de estrelas próximas provêm uma linha de base absoluta para as propriedades de estrelas mais distantes, porque suas propriedades podem ser comparadas. A medição da [[velocidade radia]] e o [[Estrela de movimento próprio|movimento próprio]] mostra a cinemática desses sistemas através da [[Via Láctea]]. Resultados astronômicos também são usados para medir a distribuição de [[matéria escura]] na galáxia.&lt;ref&gt;{{Citar web| url=http://www.astro.virginia.edu/~rjp0i/museum/engines.html | título = Hall of Precision Astrometry | publicado = University of Virginia Department of Astronomy | acessodata = 10 de agosto de 2006 }}&lt;/ref&gt;
+
+Durante a década de 1990, as técnicas de astrometria para medir as [[stellar wobble]] foram usados para detectar [[planeta extrassolar|planetas extrasolares]] orbitando a estrelas próximas.&lt;ref name=&quot;Wolszczan&quot;&gt;{{cite journal| author=Wolszczan, A.; Frail, D. A.| title=A planetary system around the millisecond pulsar PSR1257+12| journal=Nature| year=1992| volume=355| pages=145 – 147| doi= 10.1038/355145a0}}&lt;/ref&gt;
+
+=== Subcampos específicos ===
+[[Imagem:Dust.devil.mars.arp.750pix.jpg|thumb|300px|[[Astronomia planetária]] ou ciências planetárias: um &quot;''dust devil''&quot; (literalmente, demônio da poeira) marciano. A fotografia foi captada pela NASA Global Surveyor em órbita à volta de [[Marte (planeta)|Marte]]. A faixa escura e longa é formada pelos movimentos em espiral da atmosfera marciana (um fenómeno semelhante ao tornado). O &quot;''dust devil''&quot; (o ponto preto) está a subir a encosta da cratera. Os &quot;''dust devils''&quot; formam-se quando a [[atmosfera]] é aquecida por uma superfície quente e começa a rodar ao mesmo tempo que sobe. As linhas no lado direito da figura são dunas de areia no leito da cratera.]]
+
+==== Astronomia solar ====
+{{Artigo principal|Astronomia solar}}
+A uma distância de oito minutos-luz, a estrela mais frequentemente estudada é o Sol, uma típica [[estrela anã]] da sequência principal da [[classe estrelar]] G2 V, com idade de aproximadamente 4,6 Gyr. O Sol não é considerado uma [[estrela variável]], mas passa por mudanças periódicas em atividades conhecidas como [[ciclo solar]]. Isso é uma flutuação de 11 anos nos números de [[mancha solar]]es. Manchas solares são regiões de temperatura abaixo da média que estão associadas a uma intensa atividade magnética.&lt;ref name=&quot;solar FAQ&quot;&gt;{{Citar web|último = Johansson|primeiro = Sverker|data = 27 de julho de 2003|url=http://www.talkorigins.org/faqs/faq-solar.html|título = The Solar FAQ|publicado = Talk.Origins Archive|acessodata =11 de agosto de 2006 }}&lt;/ref&gt;
+
+O Sol tem aumentado constantemente de luminosidade no seu curso de vida, aumentando em 40% desde que se tornou uma estrela da [[sequência principal]]. O Sol também passa por mudanças periódicas de luminosidade que podem ter um impacto significativo na Terra.&lt;ref name=&quot;Environmental issues : essential primary sources.&quot;&gt;{{Citar web|primeiro = K. Lee|último=Lerner|coautores = Lerner, Brenda Wilmoth.|ano = 2006|url=http://catalog.loc.gov/cgi-bin/Pwebrecon.cgi?v3=1&amp;DB=local&amp;CMD=010a+2006000857&amp;CNT=10+records+per+page|título = Environmental issues : essential primary sources.&quot;|publicado = Thomson Gale|acessodata = 11 de setembro de 2006 }}&lt;/ref&gt; Por exemplo, se acredita que o [[mínimo de Maunder]] tenha causado a [[Pequena Idade do Gelo]].&lt;ref name=&quot;future-sun&quot;&gt;{{Citar web|autor=Pogge, Richard W.|ano=1997|url=http://www.astronomy.ohio-state.edu/~pogge/Lectures/vistas97.html|título=The Once &amp; Future Sun|formato=lecture notes|obra=New Vistas in Astronomy|acessodata=3 de fevereiro de 2010}}&lt;/ref&gt;
+
+A superfície externa visível do Sol é chamada [[fotosfera]]. Acima dessa camada há uma fina região conhecida como [[cromosfera]]. Essa é envolvida por uma região de transição de temperaturas cada vez mais elevadas, e então pela super-quente [[Coroa solar|corona]].
+
+No centro do Sol está a região do núcleo, um volume com temperatura e pressão suficientes para uma [[fusão nuclear]] ocorrer. Acima do núcleo está a [[zona de radiação]], onde o plasma se converte o fluxo de energia através da radiação. As camadas externas formam uma [[zona de convecção]] onde o gás material transporta a energia através do deslocamento físico do gás. Se acredita que essa zona de convecção cria a atividade magnética que gera as manchas solares.&lt;ref name=&quot;solar FAQ&quot; /&gt;
+
+Um vento solar de partículas de plasma corre constantemente para fora do Sol até que atinge a [[heliosfera]]. Esse vento solar interage com a [[magnetosfera]] da Terra para criar os [[cinturão de Van Allen|cinturões de Van Allen]], assim como a [[Aurora polar|aurora]] onde as linhas dos [[campo magnético da Terra|campos magnéticos da Terra]] descendem até a [[atmosfera da Terra]].&lt;ref&gt;{{Citar web|autor = Stern, D. P.; Peredo, M.|data = 28 de setembro de 2004|url=http://www-istp.gsfc.nasa.gov/Education/Intro.html|título = The Exploration of the Earth's Magnetosphere|publicado = NASA|acessodata = 22 de agosto de 2006 }}&lt;/ref&gt;
+
+==== Ciência planetária ====
+{{Artigo principal|Ciência planetária}}
+
+* [[Ciência planetária]]: Estuda os [[planeta]]s.
+* [[Planetologia]]: Estudo dos [[planeta]]s do [[Sistema Solar]] e [[exoplaneta]]s.
+
+==== Astronomia estelar ====
+{{Artigo principal|Astronomia estelar}}
+
+* [[Astronomia estelar]]: Estudo das estrelas, em geral.
+* [[Formação de estrelas]]: Estudo das condições e dos processos que conduziram à formação das estrelas no interior de nuvens do gás, e o próprio processo da formação.
+* [[Evolução estelar]]: Estudo da evolução das estrelas, de sua formação a seu fim como um remanescente estelar.
+* [[Formação estelar]]: Estudo das condições e processos que levam à formação de estrelas no interior de nuvens de gás.
+
+==== Astronomia galáctica ====
+{{Artigo principal|Astronomia galáctica}}
+[[Imagem:Milky Way Spiral Arm.svg|direita|thumb|Estrutura dos braços espirais da [[Via Láctea]].]]
+
+* [[Astronomia galáctica]]: Estudo da estrutura e componentes de nossa galáxia, seja através de dados relativos a objetos de nossa galáxia, seja através do estudo de galáxias próximas, que podem ser observadas em detalhe e que podem ser usadas para comparação com a nossa.
+* [[Formação e evolução de galáxias]]: Estudo da formação das galáxias e sua evolução ao estado atual observado.
+
+==== Astronomia extragaláctica ====
+{{Artigo principal|Astronomia extragaláctica}}
+
+* [[Astronomia extragaláctica]]: Estudo de objetos (principalmente galáxias) fora de nossa galáxia.
+* [[Uranografia]]: Estudos das [[constelação|constelações]] e [[Asterismo (astronomia)|asterismos]]. Nome atual de ''Uranometria''.
+
+==== Cosmologia ====
+{{Artigo principal|Cosmologia}}
+
+* [[Cosmologia]]: Estuda a origem e a evolução do universo.
+
+=== Astronomia teórica ===
+Tópicos estudados pelos astrônomos teóricos são: [[dinâmica estelar|dinâmica]] e [[evolução estelar]]; [[formação e evolução de galáxias]]; [[estrutura em grande escala do universo|estrutura em grande escala]] da [[matéria]] no [[Universo]]; origem dos [[Raio cósmico|raios cósmicos]]; [[relatividade geral]] e [[cosmologia física]], incluindo Cosmologia das [[teoria das cordas|cordas]] e [[física de astropartículas]].
+
+=== Campos interdisciplinares ===
+A astronomia e astrofísica desenvolveram links significantes de [[interdisciplinaridade]] com outros grandes [[ciência|campos científicos]]. [[Arqueoastronomia]] é o estudo das antigas e tradicionais astronomias em seus contextos culturais, utilizando evidências [[arqueologia|arqueológicas]] e [[antropologia|antropológicas]]. [[Astrobiologia]] é o estudo do advento e evolução os sistemas biológicos no universo, com ênfase particular na possibilidade de vida fora do planeta Terra.
+
+O estudo da [[química]] encontrada no espaço, incluindo sua formação, interação e destruição, é chamada de [[Astroquímica]]. Essas substâncias são normalmente encontradas em [[nuvem molecular|nuvens moleculares]], apesar de também terem aparecido em estrelas de baixa temperatura, anões marrons, e planetas. [[Cosmoquímica]] é o estudo de compostos químicos encontrados dentro do [[Sistema Solar]], incluindo a origem dos elementos e as variações na proporção de isótopos. Esses dois campos representam a união de disciplinas de astronomia e química.
+
+== Atuação profissional ==
+=== No Brasil ===
+Segundo o censo realizado pela [[Sociedade Astronômica Brasileira]], em maio de 2011 havia 340 [[doutoramento|doutores]] em Astronomia atuando como pesquisadores no [[Brasil]].&lt;ref&gt;{{citar web
+|url=http://www.sab-astro.org.br/levantamento_2011.htm
+|titulo=Censo de Astrônomos
+|publicado=Sociedade Astronômica Brasileira
+|acessodata=6 de junho de 2011
+|data=}}&lt;/ref&gt;
+
+=== Dia do astrônomo ===
+Em 2006 foi instituída, no [[Rio de Janeiro|estado do Rio de Janeiro]], a data de [[2 de dezembro]] como o ''Dia do Astrônomo''.&lt;ref&gt;{{Citar web |url=http://alerjln1.alerj.rj.gov.br/CONTLEI.NSF/c8aa0900025feef6032564ec0060dfff/840ac32f6dd4014f832571db006f5696?OpenDocument&amp;Highlight=0,astr%C3%B4nomo |título= Lei Nº 4.835 |autor= Estado do Rio de Janeiro|data= 30 de agosto de 2006 |acessodata= 22 de janeiro de 2012}}&lt;/ref&gt; A data coincide com o aniversário do imperador [[Dom Pedro II]], que era um conhecido incentivador da Astronomia.
+
+== Ferramentas astronômicas ==
+* [[Luneta]]
+* [[Telescópio]]
+* [[Computador]]
+* [[Radiotelescópio]]
+* [[Calculadora]]
+* [[Observatório]]
+* [[Observatório espacial]]
+
+== Ver também ==
+* [[Astrofotografia]]
+* [[Cronologia da astronomia]]
+
+{{Referências|col=2}}
+
+== Ligações externas ==
+{{Correlatos
+ |commonscat   = Astronomy
+|wikisource   =
+|wikiquote    = Astronomia
+|wikilivros   = Astronomia Mirim
+|wikinoticias = Categoria:Astronomia
+|wikcionario  =
+|wikispecies  =
+}}
+* [http://www.sab-astro.org.br/ Sociedade Astronômica Brasileira]
+
+{{Bloco de navegação
+|Astronomia
+|Ciências naturais
+|ciências-rodapé
+}}
+{{Portal3|Astronomia}}
+
+{{DEFAULTSORT:Astronomia}}
+[[Categoria:Astronomia| ]]
+[[Categoria:Geomática]]

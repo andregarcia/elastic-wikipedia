@@ -1,9 +1,9 @@
 package br.curso.elastic.controller;
 
 import br.curso.elastic.configuration.SearchConstants;
-import br.curso.elastic.controller.response.IndexResponse;
-import br.curso.elastic.controller.response.MultiItemResponse;
-import br.curso.elastic.model.PageType;
+import br.curso.elastic.response.IndexResponse;
+import br.curso.elastic.response.MultiItemResponse;
+import br.curso.elastic.model.xwiki.PageType;
 import br.curso.elastic.service.PageIndexingService;
 import br.curso.elastic.service.PageSearchService;
 import org.springframework.beans.factory.annotation.Autowired;

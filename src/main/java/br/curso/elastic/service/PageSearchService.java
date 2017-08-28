@@ -1,7 +1,7 @@
 package br.curso.elastic.service;
 
 import br.curso.elastic.configuration.IndexConstants;
-import br.curso.elastic.model.PageType;
+import br.curso.elastic.model.xwiki.PageType;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.google.common.collect.Lists;
 import org.elasticsearch.action.get.GetResponse;

@@ -1,14 +1,14 @@
 
 
 elasticsearch:
-    clusterName: curso-elastic
+    clusterName: elasticsearch
     host: 127.0.0.1
     port: 9300
 
 appender:
     console:
         type: Console
-        name: console
+        key: console
         layout:
             type: PatternLayout
 rootLogger:
@@ -16,3 +16,11 @@ rootLogger:
     appenderRef:
         console:
             ref: console
+
+wikipedia:
+    xml-file: /home/andregarcia/Downloads/datasets/ptwiki/ptwiki-20170501-pages-articles-multistream/ptwiki-20170501-pages-articles-multistream.xml
+    sample-xml-file: /home/andregarcia/Downloads/datasets/ptwiki/ptwiki-20170501-pages-articles-multistream/ptwiki-20170501-pages-articles-multistream.sample.xml
+    use-sample: true
+
+logging.level.org.springframework.web: INFO
+logging.level.org.hibernate: ERROR
