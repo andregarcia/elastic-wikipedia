@@ -1,26 +1,20 @@
 
-
 elasticsearch:
     clusterName: elasticsearch
     host: 127.0.0.1
     port: 9300
 
-appender:
-    console:
-        type: Console
-        key: console
-        layout:
-            type: PatternLayout
-rootLogger:
-    level: info
-    appenderRef:
-        console:
-            ref: console
-
 wikipedia:
     xml-file: /home/andregarcia/Downloads/datasets/ptwiki/ptwiki-20170501-pages-articles-multistream/ptwiki-20170501-pages-articles-multistream.xml
     sample-xml-file: /home/andregarcia/Downloads/datasets/ptwiki/ptwiki-20170501-pages-articles-multistream/ptwiki-20170501-pages-articles-multistream.sample.xml
+    ids-xml-file: /home/andregarcia/Downloads/datasets/ptwiki/ptwiki-20170501-pages-articles-multistream/ptwiki-20170501-pages-articles-multistream-index.txt
+    sample-ids-xml-file: /home/andregarcia/Downloads/datasets/ptwiki/ptwiki-20170501-pages-articles-multistream/ptwiki-20170501-pages-articles-multistream-index.sample.txt
     use-sample: true
 
+appender.console.type: Console
+appender.console.name: console
+appender.console.layout.type: PatternLayout
+rootLogger.level: info
+rootLogger.appenderRef.console.ref: console
 logging.level.org.springframework.web: INFO
 logging.level.org.hibernate: ERROR

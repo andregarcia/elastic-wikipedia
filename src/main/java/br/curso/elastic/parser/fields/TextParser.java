@@ -5,6 +5,8 @@ import br.curso.elastic.model.xwiki.PageType;
 import br.curso.elastic.model.xwiki.RevisionType;
 import info.bliki.wiki.filter.PlainTextConverter;
 import info.bliki.wiki.model.WikiModel;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
@@ -12,6 +14,8 @@ import java.io.IOException;
 
 @Component
 public class TextParser {
+
+    private static final Logger LOGGER = LoggerFactory.getLogger(TextParser.class);
 
     @Autowired
     private WikiModel wikiModel;
@@ -21,7 +25,7 @@ public class TextParser {
         try {
             plainStr = wikiModel.render(new PlainTextConverter(), getText(pageType));
         } catch (IOException e) {
-            e.printStackTrace();
+            LOGGER.error("Error converting PageType to String", e);
         }
         return plainStr;
     }

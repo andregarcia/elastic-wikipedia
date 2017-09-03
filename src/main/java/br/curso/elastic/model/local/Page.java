@@ -17,23 +17,15 @@ import java.util.List;
 public class Page {
 
     protected String title;
-
     protected BigInteger ns;
-
     protected BigInteger id;
-
     protected RedirectType redirect;
-
     protected String restrictions;
-
     protected String text;
-
+    protected String rawText;
     protected DiscussionThreadingInfo discussionthreadinginfo;
-
     protected List<String> subtitles;
-
     protected List<TableInfo> tableInfo;
-
     protected List<Link> links;
 
     public String getTitle() {
@@ -114,5 +106,13 @@ public class Page {
 
     public void setLinks(List<Link> links) {
         this.links = links;
+    }
+
+    public String getRawText() {
+        return rawText;
+    }
+
+    public void setRawText(String rawText) {
+        this.rawText = rawText;
     }
 }

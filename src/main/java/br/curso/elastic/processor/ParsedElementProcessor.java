@@ -1,4 +1,4 @@
-package br.curso.elastic.parser;
+package br.curso.elastic.processor;
 
 import org.elasticsearch.action.index.IndexResponse;
 

@@ -15,6 +15,10 @@ public class TableInfo {
         this.rows = Lists.newArrayList();
     }
 
+    public TableInfo(){
+        this.rows = Lists.newArrayList();
+    }
+
     public String getName() {
         return name;
     }
