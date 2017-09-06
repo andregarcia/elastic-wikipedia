@@ -1,13 +1,12 @@
 package br.curso.elastic.parser.fields;
 
-import br.curso.elastic.model.local.Link;
+import br.curso.elastic.model.local.LinksCounter;
 import com.google.common.base.Charsets;
 import com.google.common.io.Resources;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
 import java.io.IOException;
-import java.util.List;
 
 import static org.junit.Assert.assertEquals;
 
@@ -25,9 +24,9 @@ public class LinkParserTest {
 
     @Test
     public void testParse(){
-        List<Link> result = linkParser.parse(pageText);
+        LinksCounter result = linkParser.parse(pageText);
         assertEquals(320, result.size());
-        assertEquals("Grande Nuvem de Magalhães", result.get(0).getText());
+        assertEquals("Grande Nuvem de Magalhães", result.getLinks().get(0).getText());
     }
 
 

@@ -1,9 +1,8 @@
-package br.curso.elastic.processor;
+package br.curso.elastic.processor.xml;
 
 import br.curso.elastic.model.local.WikipediaIdRow;
 import br.curso.elastic.model.local.WikipediaIdRowList;
 import br.curso.elastic.parser.WikipediaIdRowParser;
-import br.curso.elastic.response.IndexRange;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Value;
@@ -12,11 +11,9 @@ import org.springframework.stereotype.Component;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
-import java.util.IntSummaryStatistics;
 import java.util.List;
 import java.util.Optional;
 import java.util.function.Function;
-import java.util.function.ToIntFunction;
 import java.util.stream.Collectors;
 
 @Component

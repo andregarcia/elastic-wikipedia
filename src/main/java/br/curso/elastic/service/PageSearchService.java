@@ -1,7 +1,9 @@
 package br.curso.elastic.service;
 
 import br.curso.elastic.configuration.IndexConstants;
+import br.curso.elastic.model.local.Page;
 import br.curso.elastic.model.xwiki.PageType;
+import br.curso.elastic.response.PageableResult;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.google.common.collect.Lists;
 import org.elasticsearch.action.get.GetResponse;
@@ -22,28 +24,28 @@ public class PageSearchService {
     @Autowired
     private ObjectMapper objectMapper;
 
-    public PageType getPageById(String id){
+    public Page getPageById(String id){
         GetResponse response = elasticsearchClient.prepareGet(IndexConstants.PAGES_INDEX, IndexConstants.PAGES_PAGE_TYPE, id)
                 .execute().actionGet();
-        PageType page = null;
+        Page page = null;
         try {
-            page = objectMapper.readValue(response.getSourceAsBytes(), PageType.class);
+            page = objectMapper.readValue(response.getSourceAsBytes(), Page.class);
         } catch (IOException e) {
             e.printStackTrace();
         }
         return page;
     }
 
-    public PageableResult<PageType> getPagesByIds(List<String> ids, int page, int size){
+    public PageableResult<Page> getPagesByIds(List<String> ids, int page, int size){
         ids = PagingService.applyPagination(ids, page, size);
         MultiGetResponse multiGetItemResponses = elasticsearchClient.prepareMultiGet()
                 .add(IndexConstants.PAGES_INDEX, IndexConstants.PAGES_PAGE_TYPE, ids)
                 .execute()
                 .actionGet();
-        List<PageType> pages = Lists.newArrayList();
+        List<Page> pages = Lists.newArrayList();
         multiGetItemResponses.forEach((item) -> {
             try {
-                pages.add(objectMapper.readValue(item.getResponse().getSourceAsBytes(), PageType.class));
+                pages.add(objectMapper.readValue(item.getResponse().getSourceAsBytes(), Page.class));
             } catch (IOException e) {
                 e.printStackTrace();
             }
@@ -51,27 +53,5 @@ public class PageSearchService {
         return new PageableResult<>(pages, PagingService.totalPages(ids, size));
     }
 
-
-
-    public static class PageableResult<T> {
-
-        private List<T> results;
-
-        private int totalPages;
-
-        public PageableResult(List<T> results, int totalPages) {
-            this.results = results;
-            this.totalPages = totalPages;
-        }
-
-        public List<T> getResults() {
-            return results;
-        }
-
-        public int getTotalPages() {
-            return totalPages;
-        }
-
-    }
 
 }

@@ -29,7 +29,7 @@ public class PageMapper {
         page.setText(textParser.parse(pageType));
         page.setSubtitles(subtitlesParser.parse(pageText));
         page.setTableInfo(tableInfoParser.parse(pageText));
-        page.setLinks(linkParser.parse(pageText));
+        page.setLinksCounter(linkParser.parse(pageText));
         page.setId(pageType.getId());
         page.setDiscussionthreadinginfo(pageType.getDiscussionthreadinginfo());
         page.setNs(pageType.getNs());

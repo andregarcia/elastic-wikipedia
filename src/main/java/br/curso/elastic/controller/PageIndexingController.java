@@ -1,5 +1,6 @@
 package br.curso.elastic.controller;
 
+import br.curso.elastic.response.DeleteIndexResponse;
 import br.curso.elastic.response.IndexResponse;
 import br.curso.elastic.service.PageIndexingService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -8,6 +9,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
+import static org.springframework.web.bind.annotation.RequestMethod.DELETE;
 import static org.springframework.web.bind.annotation.RequestMethod.POST;
 
 @RestController
@@ -26,6 +28,12 @@ public class PageIndexingController {
     @RequestMapping(path="/pages/index", method=POST)
     public IndexResponse indexPages(@RequestParam(name = "initial", required = false) Character initial){
         return handleIndexPages(initial);
+    }
+
+    @RequestMapping(path="/pages/index", method=DELETE)
+    public DeleteIndexResponse deletePagesIndex(){
+        boolean resp = pageIndexingService.deletePagesIndex();
+        return new DeleteIndexResponse(resp);
     }
 
     private IndexResponse handleIndexPages(Character initial){

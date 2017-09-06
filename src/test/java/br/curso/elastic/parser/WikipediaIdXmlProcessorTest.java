@@ -1,8 +1,8 @@
 package br.curso.elastic.parser;
 
 import br.curso.elastic.BaseTest;
-import br.curso.elastic.processor.WikipediaIdFileProcessor;
-import br.curso.elastic.response.IndexRange;
+import br.curso.elastic.model.local.WikipediaIdRowList;
+import br.curso.elastic.processor.xml.WikipediaIdFileProcessor;
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 
@@ -40,14 +40,14 @@ public class WikipediaIdXmlProcessorTest extends BaseTest{
 
     @Test
     public void testGetIndexRangeByInitial(){
-        IndexRange res = wikipediaIdXmlProcessor.getIndexRangeByInitial("S");
-        assertEquals(1, res.getStartIndex());
-        assertEquals(5, res.getEndIndex());
+        WikipediaIdRowList res = wikipediaIdXmlProcessor.getIndexRangeByInitial("S");
+        assertEquals(1, res.getMinIndex().intValue());
+        assertEquals(5, res.getMaxIndex().intValue());
     }
 
     @Test
     public void testGetIndexRangeByInitialInexistantInitial(){
-        IndexRange res = wikipediaIdXmlProcessor.getIndexRangeByInitial("Z");
+        WikipediaIdRowList res = wikipediaIdXmlProcessor.getIndexRangeByInitial("Z");
         assertNull(res);
     }
 

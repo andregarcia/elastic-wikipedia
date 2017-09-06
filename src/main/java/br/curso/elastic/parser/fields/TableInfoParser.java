@@ -31,7 +31,7 @@ public class TableInfoParser {
             String tableStr = m.group().trim();
             Matcher m2 = pattern2.matcher(tableStr);
             while(m2.find()){
-                tinfo.addRow(new TableRow(m2.group(1).trim(), m2.group(2).trim().replaceAll("\\}\\}$", "")));
+                tinfo.addRow(new TableRow(m2.group(1).trim(), m2.group(2).trim().replaceAll("\\}\\}$", "").trim()));
             }
             tableInfos.add(tinfo);
         }
@@ -41,6 +41,7 @@ public class TableInfoParser {
     private String preprocess(String pageTypeText){
         String res = pageTypeText.replaceAll("<!--(.*?)-->", "");       //remove html comments
         res = res.replaceAll("<ref.*?>\\{\\{.*?\\}\\}<\\/ref>", "");    //remove ref tags and inside content
+        res = res.replaceAll("<ref.*?>\\[.*?\\]<\\/ref>", "");          //remove ref tags and inside content
         res = res.replaceAll("<ref.*?\\/>", "");                        //remove ref tags
         res = res.replaceAll("(\\|.*?=\\s+)\\n", "$1");                 //fix new line on tableinfo
         int MAX_REPLACE = 5;

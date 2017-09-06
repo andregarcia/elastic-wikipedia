@@ -1,4 +1,4 @@
-package br.curso.elastic.processor;
+package br.curso.elastic.processor.xml;
 
 
 import br.curso.elastic.model.local.WikipediaIdRowList;

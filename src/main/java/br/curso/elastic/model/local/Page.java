@@ -2,18 +2,13 @@ package br.curso.elastic.model.local;
 
 import br.curso.elastic.model.xwiki.DiscussionThreadingInfo;
 import br.curso.elastic.model.xwiki.RedirectType;
-import br.curso.elastic.model.xwiki.RevisionType;
-import br.curso.elastic.model.xwiki.UploadType;
+import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.fasterxml.jackson.annotation.JsonInclude;
 
-import javax.xml.bind.annotation.XmlElement;
-import javax.xml.bind.annotation.XmlElements;
-import javax.xml.bind.annotation.XmlSchemaType;
 import java.math.BigInteger;
 import java.util.List;
 
-/**
- * Created by andregarcia on 26/08/17.
- */
+
 public class Page {
 
     protected String title;
@@ -26,7 +21,9 @@ public class Page {
     protected DiscussionThreadingInfo discussionthreadinginfo;
     protected List<String> subtitles;
     protected List<TableInfo> tableInfo;
-    protected List<Link> links;
+
+    @JsonIgnore
+    protected LinksCounter linksCounter;
 
     public String getTitle() {
         return title;
@@ -100,12 +97,17 @@ public class Page {
         this.tableInfo = tableInfo;
     }
 
-    public List<Link> getLinks() {
-        return links;
+    public LinksCounter getLinksCounter() {
+        return linksCounter;
     }
 
-    public void setLinks(List<Link> links) {
-        this.links = links;
+    public void setLinksCounter(LinksCounter linksCounter) {
+        this.linksCounter = linksCounter;
+    }
+
+    @JsonInclude
+    public List<Link> getLinksTo(){
+        return linksCounter.getLinks();
     }
 
     public String getRawText() {
